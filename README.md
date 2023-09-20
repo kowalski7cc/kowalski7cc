@@ -1,5 +1,8 @@
 # Hi there 👋
 
+![Banner](banner.png)
+_Art by **@puzzoz**_
+
 ## My PGP Key:
 
 Key ID: 0xc4e819bd2bc6233e
